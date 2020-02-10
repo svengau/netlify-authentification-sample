@@ -20,3 +20,8 @@ Once deployed, don't forget to configure the 3 following env variables:
 - GOOGLE_AUTH_CLIENT_ID: your google client id
 - GOOGLE_AUTH_CLIENT_SECRET: your google client secret key
 - SESSION_SECRET: a random session secret
+
+
+## Live Demo
+
+You may test out a deployed version of this project here: https://netlify-authentification-sample.netlify.com/
