@@ -10624,10 +10624,10 @@ serve-static@1.14.1:
     parseurl "~1.3.3"
     send "0.17.1"
 
-serverless-http@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/serverless-http/-/serverless-http-2.3.1.tgz#8cac7f84722f4b8d36c7b945e574c9a04f431658"
-  integrity sha512-Yf0R6wj5wCsZvlbQYvgeebrdJKZ4WpLbS4nWEhdh/pBXvabjw4WwZk+3KhXe9g4VVKsG5vxfieXE7+PnktRKuA==
+serverless-http@2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/serverless-http/-/serverless-http-2.3.2.tgz#45c7f984adc82b4d8b5c88f11baec3dec373c999"
+  integrity sha512-tUUpj2USho2s+X+7js0KQZ2PWqdDNXKkiz9rdYqu3CG/3hsvMve9IBm/R6gILgijGgOfkCKSjsrPnPG08Y7M6g==
   optionalDependencies:
     "@types/aws-lambda" "^8.10.19"
 
