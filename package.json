@@ -14,7 +14,7 @@
   "dependencies": {
     "client-sessions": "0.8.0",
     "cookie-parser": "1.4.5",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "passport": "0.4.1",
     "passport-google-oauth20": "2.0.0",
     "react": "16.13.1",
