@@ -20,7 +20,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.1",
-    "serverless-http": "2.3.2"
+    "serverless-http": "2.7.0"
   },
   "devDependencies": {
     "env-cmd": "10.1.0",
