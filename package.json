@@ -19,7 +19,7 @@
     "passport-google-oauth20": "2.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "3.4.4",
     "serverless-http": "2.3.2"
   },
   "devDependencies": {
